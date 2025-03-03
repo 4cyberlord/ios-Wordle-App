@@ -21,13 +21,16 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- ✅ Custom Launch Screen with:
+  - 3x3 grid of squares showing game mechanics (green, yellow, gray squares)
+  - Centered WORDLE title text in white
+  - Black background for sleek appearance
+  - Responsive layout with proper constraints
+  - Visual representation of the game's color scheme (success, partial match, and miss)
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div style="position: relative; padding-bottom: 52.63157894736842%; height: 0;"><iframe src="https://www.loom.com/embed/a7a64d6997bd495e85c2e2fe16d18201?sid=7b8f646f-3c15-4af1-979d-117a807a30d5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Notes
 
@@ -37,6 +40,7 @@ Describe any challenges encountered while building the app.
 - Implementing the alien mode while maintaining game logic
 - Managing state between the board controller and view controller
 - Ensuring proper word generation based on selected themes and lengths
+- Creating a visually appealing launch screen with proper constraints and layout
 
 ## License
 
