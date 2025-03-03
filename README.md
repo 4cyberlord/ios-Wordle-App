@@ -30,8 +30,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<a href="https://www.loom.com/share/a7a64d6997bd495e85c2e2fe16d18201">
-    <img src="https://cdn.loom.com/sessions/thumbnails/a7a64d6997bd495e85c2e2fe16d18201-with-play.gif" width="800" alt="Video Walkthrough">
+<a href="https://www.loom.com/share/a7a64d6997bd495e85c2e2fe16d18201?t=59&sid=06de4aa6-cf82-4249-b303-511ed56b7a61">
+    <img src="https://cdn.loom.com/sessions/thumbnails/a7a64d6997bd495e85c2e2fe16d18201-with-play.gif" width="600" alt="Video Walkthrough">
 </a>
 
 ## Notes
